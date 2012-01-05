@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<members>
+  <member email="just@name.com" username="ivan" password="">
+    <firstname>Ivan</firstname>
+    <lastname>The Terrible</lastname>
+    <middlename>V</middlename>
+    <suffix></suffix>
+    <jobtitle></jobtitle>
+    <company></company>
+    <address1></address1>
+    <address2></address2>
+    <city></city>
+    <state></state>
+    <postalcode></postalcode>
+    <workphone></workphone>
+    <homephone></homephone>
+    <country></country>
+    <extension></extension>
+    <fax></fax>
+    <mobilephone></mobilephone>
+    <emergencycontactphone></emergencycontactphone>
+    <dob>1901-01-01T00:00:00</dob>
+    <gender></gender>
+    <secondaryemail></secondaryemail>
+  </member>
+
+  <member email="test@user.com" username="testUserName" password="testPassword">
+    <firstname>Test</firstname>
+    <lastname>User</lastname>
+    <middlename>Middle Name</middlename>
+    <suffix>Suffix</suffix>
+    <jobtitle>Job Title</jobtitle>
+    <company>Company Name</company>
+    <address1>Address1</address1>
+    <address2>Address2</address2>
+    <city>Tinytown</city>
+    <state>CO</state>
+    <postalcode>80005</postalcode>
+    <workphone>123-123-1233</workphone>
+    <homephone>303-987-3528</homephone>
+    <country>USA</country>
+    <extension>113</extension>
+    <fax>303-987-3524</fax>
+    <mobilephone>303-998-5632</mobilephone>
+    <emergencycontactphone>303-999-0000</emergencycontactphone>
+    <dob>1915-09-05T00:00:00</dob>
+    <gender>F</gender>
+    <secondaryemail>aaa@a.com</secondaryemail>
+  </member>
+
+
+  <member email="qa@tester.com" username="user123" password="testPassword">
+    <firstname>Regonline</firstname>
+    <lastname>Tester</lastname>
+    <middlename>J</middlename>
+    <suffix>Mr.</suffix>
+    <jobtitle>Test Master</jobtitle>
+    <company>Regonline</company>
+    <address1>4750 Walnut St</address1>
+    <address2>Suite 100</address2>
+    <city>Boulder</city>
+    <state>CO</state>
+    <postalcode>80003</postalcode>
+    <workphone>303-333-3333</workphone>
+    <homephone>303-444-4444</homephone>
+    <country>United States</country>
+    <extension>101</extension>
+    <fax>303-777-7777</fax>
+    <mobilephone>303-888-8888</mobilephone>
+    <emergencycontactphone>303-999-0000</emergencycontactphone>
+    <dob>1901-09-05T00:00:00</dob>
+    <gender>M</gender>
+    <secondaryemail>qa@secondary.com</secondaryemail>
+  </member>
+
+  <member email="first@xauth.com" username="firstxauth" password="testPassword">
+    <firstname>First</firstname>
+    <lastname>Xauth</lastname>
+    <middlename>A</middlename>
+    <suffix>Sr.</suffix>
+    <jobtitle>First Xauth Tester</jobtitle>
+    <company>Regonline One</company>
+    <address1>4751 Walnut St</address1>
+    <address2>Suite 100</address2>
+    <city>Boulder</city>
+    <state>CO</state>
+    <postalcode>80301</postalcode>
+    <workphone>303-333-3333</workphone>
+    <homephone>303-444-4444</homephone>
+    <country>United States</country>
+    <extension>101</extension>
+    <fax>303-777-7777</fax>
+    <mobilephone>303-888-8888</mobilephone>
+    <emergencycontactphone>303-999-0000</emergencycontactphone>
+    <dob>1949-09-05T00:00:00</dob>
+    <gender>M</gender>
+    <secondaryemail>qa@secondary.com</secondaryemail>
+  </member>
+
+  <member email="second@xauth.com" username="secondxauth" password="testPassword">
+    <firstname>Second</firstname>
+    <lastname>Xauth</lastname>
+    <middlename>B</middlename>
+    <suffix>Sr.</suffix>
+    <jobtitle>Second Xauth Tester</jobtitle>
+    <company>Regonline Two</company>
+    <address1>4752 Walnut St</address1>
+    <address2>Suite 100</address2>
+    <city>Boulder</city>
+    <state>CO</state>
+    <postalcode>80302</postalcode>
+    <workphone>303-333-3333</workphone>
+    <homephone>303-444-4444</homephone>
+    <country>United States</country>
+    <extension>101</extension>
+    <fax>303-777-7777</fax>
+    <mobilephone>303-888-8888</mobilephone>
+    <emergencycontactphone>303-999-0000</emergencycontactphone>
+    <dob>1949-09-05T00:00:00</dob>
+    <gender>M</gender>
+    <secondaryemail>qa@secondary.com</secondaryemail>
+  </member>
+
+  <member email="third@xauth.com" username="thirdxauth" password="testPassword">
+    <firstname>Third</firstname>
+    <lastname>Xauth</lastname>
+    <middlename>C</middlename>
+    <suffix>Sr.</suffix>
+    <jobtitle>Third Xauth Tester</jobtitle>
+    <company>Regonline Three</company>
+    <address1>4753 Walnut St</address1>
+    <address2>Suite 100</address2>
+    <city>Boulder</city>
+    <state>CO</state>
+    <postalcode>80301</postalcode>
+    <workphone>303-333-3333</workphone>
+    <homephone>303-444-4444</homephone>
+    <country>United States</country>
+    <extension>101</extension>
+    <fax>303-777-7777</fax>
+    <mobilephone>303-888-8888</mobilephone>
+    <emergencycontactphone>303-999-0000</emergencycontactphone>
+    <dob>1949-09-05T00:00:00</dob>
+    <gender>M</gender>
+    <secondaryemail>qa@secondary.com</secondaryemail>
+  </member>
+
+  <member email="fourth@xauth.com" username="fourthxauth" password="testPassword">
+    <firstname>Fourth</firstname>
+    <lastname>Xauth</lastname>
+    <middlename>D</middlename>
+    <suffix>Sr.</suffix>
+    <jobtitle>Fourth Xauth Tester</jobtitle>
+    <company>Regonline Four</company>
+    <address1>4754 Walnut St</address1>
+    <address2>Suite 100</address2>
+    <city>Boulder</city>
+    <state>CO</state>
+    <postalcode>80302</postalcode>
+    <workphone>303-333-3333</workphone>
+    <homephone>303-444-4444</homephone>
+    <country>United States</country>
+    <extension>101</extension>
+    <fax>303-777-7777</fax>
+    <mobilephone>303-888-8888</mobilephone>
+    <emergencycontactphone>303-999-0000</emergencycontactphone>
+    <dob>1949-09-05T00:00:00</dob>
+    <gender>M</gender>
+    <secondaryemail>qa@secondary.com</secondaryemail>
+  </member>
+
+  <member email="fifth@xauth.com" username="fifthxauth" password="testPassword">
+    <firstname>Fifth</firstname>
+    <lastname>Xauth</lastname>
+    <middlename>E</middlename>
+    <suffix>Sr.</suffix>
+    <jobtitle>Fifth Xauth Tester</jobtitle>
+    <company>Regonline Five</company>
+    <address1>4755 Walnut St</address1>
+    <address2>Suite 100</address2>
+    <city>Boulder</city>
+    <state>CO</state>
+    <postalcode>80301</postalcode>
+    <workphone>303-333-3333</workphone>
+    <homephone>303-444-4444</homephone>
+    <country>United States</country>
+    <extension>101</extension>
+    <fax>303-777-7777</fax>
+    <mobilephone>303-888-8888</mobilephone>
+    <emergencycontactphone>303-999-0000</emergencycontactphone>
+    <dob>1949-09-05T00:00:00</dob>
+    <gender>M</gender>
+    <secondaryemail>qa@secondary.com</secondaryemail>
+  </member>
+
+  <member email="sixth@xauth.com" username="sixthxauth" password="testPassword">
+    <firstname>Sixth</firstname>
+    <lastname>Xauth</lastname>
+    <middlename>F</middlename>
+    <suffix>Sr.</suffix>
+    <jobtitle>Sixth Xauth Tester</jobtitle>
+    <company>Regonline Six</company>
+    <address1>4756 Walnut St</address1>
+    <address2>Suite 100</address2>
+    <city>Boulder</city>
+    <state>CO</state>
+    <postalcode>80302</postalcode>
+    <workphone>303-333-3333</workphone>
+    <homephone>303-444-4444</homephone>
+    <country>United States</country>
+    <extension>101</extension>
+    <fax>303-777-7777</fax>
+    <mobilephone>303-888-8888</mobilephone>
+    <emergencycontactphone>303-999-0000</emergencycontactphone>
+    <dob>1949-09-05T00:00:00</dob>
+    <gender>M</gender>
+    <secondaryemail>qa@secondary.com</secondaryemail>
+  </member>
+
+  <member email="seventh@xauth.com" username="seventhxauth" password="testPassword">
+    <firstname>Seventh</firstname>
+    <lastname>Xauth</lastname>
+    <middlename>G</middlename>
+    <suffix>Sr.</suffix>
+    <jobtitle>Seventh Xauth Tester</jobtitle>
+    <company>Regonline Seven</company>
+    <address1>4757 Walnut St</address1>
+    <address2>Suite 100</address2>
+    <city>Boulder</city>
+    <state>CO</state>
+    <postalcode>80301</postalcode>
+    <workphone>303-333-3333</workphone>
+    <homephone>303-444-4444</homephone>
+    <country>United States</country>
+    <extension>101</extension>
+    <fax>303-777-7777</fax>
+    <mobilephone>303-888-8888</mobilephone>
+    <emergencycontactphone>303-999-0000</emergencycontactphone>
+    <dob>1949-09-05T00:00:00</dob>
+    <gender>M</gender>
+    <secondaryemail>qa@secondary.com</secondaryemail>
+  </member>
+
+  <member email="eighth@xauth.com" username="eighthxauth" password="testPassword">
+    <firstname>Eighth</firstname>
+    <lastname>Xauth</lastname>
+    <middlename>H</middlename>
+    <suffix>Sr.</suffix>
+    <jobtitle>Eighth Xauth Tester</jobtitle>
+    <company>Regonline Eighth</company>
+    <address1>4758 Walnut St</address1>
+    <address2>Suite 100</address2>
+    <city>Boulder</city>
+    <state>CO</state>
+    <postalcode>80302</postalcode>
+    <workphone>303-333-3333</workphone>
+    <homephone>303-444-4444</homephone>
+    <country>United States</country>
+    <extension>101</extension>
+    <fax>303-777-7777</fax>
+    <mobilephone>303-888-8888</mobilephone>
+    <emergencycontactphone>303-999-0000</emergencycontactphone>
+    <dob>1949-09-05T00:00:00</dob>
+    <gender>M</gender>
+    <secondaryemail>qa@secondary.com</secondaryemail>
+  </member>
+  <member email="nineth@xauth.com" username="ninethxauth" password="Us3rNumb3rNine!!">
+    <firstname>Nineth</firstname>
+    <lastname>Xauth</lastname>
+    <middlename>I</middlename>
+    <suffix>Sr.</suffix>
+    <jobtitle>Nineth Xauth Tester</jobtitle>
+    <company>Regonline Nineth</company>
+    <address1>4758 Walnut St</address1>
+    <address2>Suite 100</address2>
+    <city>Boulder</city>
+    <state>CO</state>
+    <postalcode>80302</postalcode>
+    <workphone>303-333-3333</workphone>
+    <homephone>303-444-4444</homephone>
+    <country>United States</country>
+    <extension>101</extension>
+    <fax>303-777-7777</fax>
+    <mobilephone>303-888-8888</mobilephone>
+    <emergencycontactphone>303-999-0000</emergencycontactphone>
+    <dob>1949-09-05T00:00:00</dob>
+    <gender>M</gender>
+    <secondaryemail>qa@secondary.com</secondaryemail>
+  </member>
+  <member email="tenth@xauth.com" username="tenthxauth" password="Us3rNumb3rTen!!">
+    <firstname>Tenth</firstname>
+    <lastname>Xauth</lastname>
+    <middlename>I</middlename>
+    <suffix>Sr.</suffix>
+    <jobtitle>Tenth Xauth Tester</jobtitle>
+    <company>Regonline Tenth</company>
+    <address1>4758 Walnut St</address1>
+    <address2>Suite 100</address2>
+    <city>Boulder</city>
+    <state>CO</state>
+    <postalcode>80302</postalcode>
+    <workphone>303-333-3333</workphone>
+    <homephone>303-444-4444</homephone>
+    <country>United States</country>
+    <extension>101</extension>
+    <fax>303-777-7777</fax>
+    <mobilephone>303-888-8888</mobilephone>
+    <emergencycontactphone>303-999-0000</emergencycontactphone>
+    <dob>1949-09-05T00:00:00</dob>
+    <gender>M</gender>
+    <secondaryemail>qa@secondary.com</secondaryemail>
+  </member>
+
+</members>
